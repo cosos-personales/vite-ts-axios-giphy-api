@@ -1,0 +1,18 @@
+const axios = require('axios').default;
+
+const apiKey = `vabfdNJURSCCNEnOMyOU9yGO21uA7YGX`;
+
+const giph
+
+
+
+
+// fetch(`https://api.giphy.com/v1/gifs/random?api_key=${apiKey}&tag=&rating=g`)
+// .then( resp => resp.json() )
+// .then( ( {data} ) => {
+// const { url } = data.images.original;
+//   console.log(url);
+//   const img = document.createElement('img');
+//   img.src = url;
+//   document.body.append(img);
+// } )
